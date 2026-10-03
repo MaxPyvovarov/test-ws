@@ -4,7 +4,7 @@ type ComponentProps = {
 
 export const Component = (props: ComponentProps) => {
     return (
-        <p className={props.className}>Component 1</p>
+        <p className={props.className}>Component 2</p>
     )
 }
 
